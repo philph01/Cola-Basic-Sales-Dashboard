@@ -9,7 +9,7 @@ The Dashboard contains the following visuals:
 - Matrix for price per unit and operating profit
 - Slider Filter to change dates
 
-Credit goes to <a href="https://www.youtube.com/@KenjiExplains">KenjiExplains channel</a> for the dataset and tutorial. 
+Credits to <a href="https://www.youtube.com/@KenjiExplains">KenjiExplains channel</a> for the dataset and tutorial. Check out his page for more. 
 
 Screenshot of the Dashboard:
 ![Alt text](/screenshots/screenshot1.png?raw=true "Optional Title")
